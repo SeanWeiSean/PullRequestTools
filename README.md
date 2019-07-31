@@ -32,7 +32,7 @@ Download #[nodejs](https://nodejs.org/en/download/)
    npm init
 ```
 　　Press Enter to accept the defaults for all of the options except the entry point. Change it to app.js
-   ```bash
+```bash
     entry point: (index.js) app.js
 ```
 3) Install Express in the pr-server directory using the following command.
