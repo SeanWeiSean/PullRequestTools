@@ -18,15 +18,7 @@ Architecture
 ![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true)
 ![]
 
-Preview
-=========================
-![]
-![]
-![]
-![]
-![]
-
-Installation
+Initialization 
 =========================
 Localhost or Azure server in Windows or Linux.
 Download #[nodejs](https://nodejs.org/en/download/) 
@@ -43,8 +35,16 @@ Download #[nodejs](https://nodejs.org/en/download/)
    ```bash
     entry point: (index.js) app.js
 ```
-
-
+3) Install Express in the pr-server directory using the following command.
+```bash
+   npm install express
+```
+4) Replace the app.js with our project then run it.
+```bash
+   node app.js
+```
+Initialization 
+=========================
 
 
 
