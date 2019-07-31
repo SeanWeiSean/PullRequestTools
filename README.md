@@ -47,8 +47,9 @@ Web Hook Deployment in DevOps
 =========================
 ![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/ins1.png?raw=true)
 1) Click the DevOps as the picture's instruction.
-3) Then we choose **Web Hook** options   
-3） Select **Pull request created from the list of event** triggers, then select **Next**.
+3) Then we choose **Web Hook** options.  
+3) Select **Pull request created from the list of event** triggers, then select **Next**.
+4) In the Action page, enter the *URL:port* your tools listening. Select Test to send a test event to your server.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
