@@ -15,7 +15,7 @@ Feature
 
 Architecture
 =========================
-![]https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true
+![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true)
 ![]
 
 Preview
