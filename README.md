@@ -11,11 +11,11 @@ A tool for reviewer recommendation and automatic adding in DevOps, Microsoft
 Feature
 =========================
 - A lightweight web framework, easy to deploy.
-- customizable recommendation algorithm.
+- Customizable recommendation algorithm.
 
 Architecture
 =========================
-![]
+![]https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true
 ![]
 
 Preview
