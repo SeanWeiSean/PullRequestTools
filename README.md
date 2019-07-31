@@ -1,6 +1,4 @@
-A tool for reviewer recommendation and automatic adding in DevOps, Microsoft
-
-PullRequestTools 0.1  
+Pull Request Tools 0.1  
 =========================
 <p align="left">
     <a href='https://travis-ci.org/meolu/walle-web'><img src='https://travis-ci.org/meolu/walle-web.svg?branch=master' alt="Build Status"></a>  
@@ -30,8 +28,14 @@ Preview
 
 Installation
 =========================
-
-
+Localhost or Azure server
+Download [nodejs](https://nodejs.org/en/download/) 
+1) From the command line, create a new project folder for your web server
+```bash
+   mkdir pr-server
+   cd pr-server
+```
+2) 
 
 
 
