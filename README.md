@@ -28,7 +28,7 @@ Preview
 
 Installation
 =========================
-Localhost or Azure server
+Localhost or Azure server  
 Download [nodejs](https://nodejs.org/en/download/) 
 1) From the command line, create a new project folder for your web server
 ```bash
