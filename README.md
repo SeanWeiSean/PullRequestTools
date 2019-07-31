@@ -28,14 +28,21 @@ Preview
 
 Installation
 =========================
-Localhost or Azure server  
-Download [nodejs](https://nodejs.org/en/download/) 
+Localhost or Azure server in Windows or Linux.
+Download #[nodejs](https://nodejs.org/en/download/) 
 1) From the command line, create a new project folder for your web server
 ```bash
    mkdir pr-server
    cd pr-server
 ```
-2) 
+2) Create a new package.json file for the project.
+```bash
+   npm init
+```
+   Press Enter to accept the defaults for all of the options except the entry point. Change it to app.js
+   ```bash
+    entry point: (index.js) app.js
+```
 
 
 
