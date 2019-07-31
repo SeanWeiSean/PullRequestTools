@@ -46,7 +46,9 @@ Download #[nodejs](https://nodejs.org/en/download/)
 Web Hook Deployment in DevOps
 =========================
 ![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/ins1.png?raw=true)
-Then we choose ##Web Hook  
+1) Click the DevOps as the picture's instruction.
+3) Then we choose **Web Hook** options   
+3） Select **Pull request created from the list of event** triggers, then select **Next**.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
