@@ -39,7 +39,7 @@ Download #[nodejs](https://nodejs.org/en/download/)
 ```bash
    npm init
 ```
-    Press Enter to accept the defaults for all of the options except the entry point. Change it to app.js
+　　Press Enter to accept the defaults for all of the options except the entry point. Change it to app.js
    ```bash
     entry point: (index.js) app.js
 ```
