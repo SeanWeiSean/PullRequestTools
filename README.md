@@ -15,9 +15,9 @@ Feature
 
 Architecture
 =========================
-![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true)
-
-
+![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true)  
+  
+   
 Initialization 
 =========================
 Localhost or Azure server in Windows or Linux.
