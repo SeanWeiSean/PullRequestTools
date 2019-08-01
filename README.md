@@ -16,7 +16,7 @@ Feature
 Architecture
 =========================
 ![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/WorkFlow.png?raw=true)
-![]
+
 
 Initialization 
 =========================
@@ -39,7 +39,9 @@ Download #[nodejs](https://nodejs.org/en/download/)
 ```bash
    npm install express
 ```
-4) Replace the app.js with our project then run it.
+4) Replace the project URL and token with your own RepoUrl and Token.
+![](https://github.com/SeanWeiSean/PullRequestTools/blob/master/URL3.jpg?raw=true)
+5) Replace the app.js with our project then run it.
 ```bash
    npm install body-parser
    npm install azure-devops-node-api
