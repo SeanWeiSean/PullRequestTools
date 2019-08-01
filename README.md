@@ -11,7 +11,7 @@ A tool for reviewer recommendation and automatic adding in DevOps, Microsoft
 Feature
 =========================
 - A lightweight web framework, easy to deploy.
-- Customizable recommendation algorithm.
+- Customizable recommendation algorithm by git.
 
 Architecture
 =========================
