@@ -41,6 +41,10 @@ Download #[nodejs](https://nodejs.org/en/download/)
 ```
 4) Replace the app.js with our project then run it.
 ```bash
+   npm install body-parser
+   npm install azure-devops-node-api
+   npm i nodemailer
+   npm i shelljs
    node app.js
 ```
 Web Hook Deployment in DevOps
@@ -50,7 +54,7 @@ Web Hook Deployment in DevOps
 3) Then we choose **Web Hook** options.  
 3) Select **Pull request created from the list of event** triggers, then select **Next**.
 4) In the Action page, enter the ***URL:port*** your tools listening. Select Test to send a test event to your server.
-
+5) select **Finish** to create the service hook.
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
